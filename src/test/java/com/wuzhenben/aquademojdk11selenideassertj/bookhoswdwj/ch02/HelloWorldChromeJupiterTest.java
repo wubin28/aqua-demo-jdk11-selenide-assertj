@@ -1,4 +1,4 @@
-package com.wuzhenben.aquademojdk11selenideassertj;
+package com.wuzhenben.aquademojdk11selenideassertj.bookhoswdwj.ch02;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.jupiter.api.AfterEach;
